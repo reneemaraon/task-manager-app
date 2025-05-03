@@ -29,7 +29,7 @@ A brief description of your project, what it does, and its purpose.
 
    - Create a `.env` file in the client/ directory and add the necessary environment variables.
 
-   EXPO_PUBLIC_API_URL = <ip address>:<port>
+   EXPO_PUBLIC_API_URL =IPADDRESS:PORT
 
    - Setup database info on the api/ `.env` file
 
